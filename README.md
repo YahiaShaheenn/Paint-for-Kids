@@ -32,7 +32,7 @@ It features two main modes:
 - Switch to Play Mode
 - Exit
 - Undo / Redo
-- 
+  
 ### Play Mode
 - **Matching Pairs**: Match identical shapes or colors
 - **Missing Shapes**: Identify randomly hidden shapes
@@ -101,6 +101,6 @@ text---
 
 - Yahia Ahmed Shaheen
 - Maya Ramy Essam
-- 
+  
 ---
 
